@@ -1,6 +1,6 @@
 #  Spotify Music Recommendation system using Spotify API
 
-<img src="https://i.pcmag.com/imagery/reviews/042FW7hC9vrGnoDea9LArXI-35.fit_scale.size_1028x578.v1674253030.png" width=500 height=500 />
+<img src="https://i.pcmag.com/imagery/reviews/042FW7hC9vrGnoDea9LArXI-35.fit_scale.size_1028x578.v1674253030.png" width=700 height=500 />
 
 ## Background
 
